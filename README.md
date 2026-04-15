@@ -94,7 +94,7 @@ jupyter notebook bank_churn.ipynb
 
 **Shyamali Naik** · MSc Data Analytics · Queen Mary University of London · 2025
 
-[LinkedIn](https://www.linkedin.com/in/shyamali-naik-91n78) · [Portfolio](https://YOUR-GITHUB-USERNAME.github.io)
+[LinkedIn](https://www.linkedin.com/in/shyamali-naik-91n78) · [Portfolio](https://shyamalinaik369-ops.github.io)
 
 ---
 
